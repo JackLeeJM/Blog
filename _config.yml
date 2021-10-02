@@ -1,5 +1,5 @@
 title:              JackLeeJM's Blog
-email:              email@example.com
+email:              
 description:        A Personal Blog
 author:             Jack Lee Jian Ming
 baseurl:            "/blog"
@@ -7,10 +7,10 @@ url:                "https://jackleejm.github.io"
 
 # Social Profiles
 twitter_username:   
-github_username:    
+github_username:    JackLeeJM
 facebook_username:  
 instagram_username:  
-linkedin_username:
+linkedin_username:  jackleejm
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
